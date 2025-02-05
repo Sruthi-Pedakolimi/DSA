@@ -1,10 +1,3 @@
-"""
-You are given a string S, you are allowed to swap atmost one character in the string between any two characters in the string.
-
-Determine whether it is possible to transform the string to palindrome using recursion
-
-"""
-
 def checkSwappedPalindrome(left,right,s,index_mismatch):
     #print(index_mismatch)
     #Eprint(f"left: {left} and right: {right}")
